@@ -23,19 +23,19 @@ Sección 4:
 
 Footer: Domicilio, teléfonos de contacto de casa central y sucursal /texto pantalla dividida/ acceso a link de google maps con ubicación para ambas/ acceso a redes sociales íconos 
 
-![imagen página principal](<Iimágenes/wireframe hc-Pág. pcipal..drawio.png>)
-
+<img src= "wireframe hc-Pág. pcipal..drawio.png" alt= "wireframe pag pcipal">
 
 # TIENDA
 
 Productos en formato tarjeta / imágen con texto / botonera
 
-![imágen tienda](<Iimágenes/wireframe hc-Tienda.drawio.png>)
-
+<img src= "wireframe hc-Tienda.drawio.png" alt= "wireframe tienda">
 
 # REGISTRO
 
 Formulario general con datos del usuario: Nombre, apeliio, dirección de correo electrónico, ciudad, provincia, código postal, domicilio. 
 Formulario opcional para agregar las distintas obras en las que trabajan los albañiles, plomeros, arquitectos: Propietario de la obra, domicilo, ciudad y código postal de la misma
 
-![imagen registro](<Iimágenes/wireframe hc-Registro.drawio.png>)
+<img src= "wireframe hc-Registro.drawio.png" alt= "wireframe registro">
+
+<img src= "mockuppagpcipal.jpg" alt= "mockup1">
