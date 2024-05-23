@@ -23,7 +23,7 @@ Sección 4:
 
 Footer: Domicilio, teléfonos de contacto de casa central y sucursal /texto pantalla dividida/ acceso a link de google maps con ubicación para ambas/ acceso a redes sociales íconos 
 
-<img src= "/wireframe hc-Pág. pcipal..drawio.png" alt= "wireframe pag pcipal">
+<img src= "\wireframe hc-Pág. pcipal..drawio.png" alt= "wireframe pag pcipal">
 
 # TIENDA
 
