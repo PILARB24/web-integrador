@@ -39,4 +39,5 @@ Formulario opcional para agregar las distintas obras en las que trabajan los alb
 
 <img src= "./Imágenes/wireframe hc-Registro.drawio.png" alt= "wireframe registro">
 
-<iframe src="./Imágenes/mockuppagpcipal.pdf" title="mockup-psgpcipal"></iframe>
+<object data="./Imágenes/mockuppagpcipal.pdf" type="mockuppagpcipal"></object>
+
