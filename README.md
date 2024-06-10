@@ -59,35 +59,35 @@ Descripción general del proyecto
     # 2- Colors:
     Nav bar
     <ul>
-        Fondo: 343A40
-        Texto resaltado: EA6B66
-        Texto normal e icono: 9A9DA0
+        <li>Fondo: 343A40</li>
+        <li>Texto resaltado: EA6B66</li>
+        <li>Texto normal e icono: 9A9DA0</li>
     </ul>
     Presentación
     <ul>
-        Nombre emprersa y slogan: 000000
-        Botón de búsqueda: B85450 fondo, FFFFFF texto
-        Botón tienda: B85450 opacidad 70%, FFFFFF texto
+        <li>Nombre emprersa y slogan: 000000</li>
+        <li>Botón de búsqueda: B85450 fondo, FFFFFF texto</li>
+        <li>Botón tienda: B85450 opacidad 70%, FFFFFF texto</li>
     </ul>
     Trayectoria
     <ul>
-        Fondo: 000000
-        Texto: FFFFFF
+        <li>Fondo: 000000</li>
+        <li>Texto: FFFFFF</li>
     </ul>
     Presentación tienda
     <ul>
-        Fondo: C4C4C4
-        Cuadro de texto de tarjetas: fondo, texto
+        <li>Fondo: C4C4C4</li>
+        <li>Cuadro de texto de tarjetas: fondo, texto</li>
     </ul>
     Presentación catálogos
     <ul>
-        Fondo:
-        Texto e íconos:
+        <li>Fondo:</li>
+        <li>Texto e íconos:</li>
     </ul>
     Footer:
     <ul>
-        Fondo:
-        Texto:
+        <li>Fondo:</li>
+        <li>Texto:</li>
     </ul>
 
 </section>
